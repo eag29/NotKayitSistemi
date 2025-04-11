@@ -1,0 +1,15 @@
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe.config
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.exe
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\bin\Debug\NotKayıtSistemi.pdb
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmAnaSayfa.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmKayitEkrani.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgrenciGiris.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgretmenGiris.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.Properties.Resources.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.exe
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.pdb
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgrenciNotEkrani.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\NotKayıtSistemi\NotKayıtSistemi\obj\Debug\NotKayıtSistemi.FrmOgretmenNotEkrani.resources
