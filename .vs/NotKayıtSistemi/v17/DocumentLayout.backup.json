@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\NotKay\u0131tSistemi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B73231F-652B-4ADC-8666-B0099753CFBD}|NotKay\u0131tSistemi\\NotKay\u0131tSistemi.csproj|c:\\users\\emir ali\\documents\\projeler\\ado.netprojeleri\\notkay\u0131tsistemi\\notkay\u0131tsistemi\\frmogretmennotekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B73231F-652B-4ADC-8666-B0099753CFBD}|NotKay\u0131tSistemi\\NotKay\u0131tSistemi.csproj|solutionrelative:notkay\u0131tsistemi\\frmogretmennotekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmOgretmenNotEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\NotKay\u0131tSistemi\\NotKay\u0131tSistemi\\FrmOgretmenNotEkrani.cs",
+              "RelativeDocumentMoniker": "NotKay\u0131tSistemi\\FrmOgretmenNotEkrani.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\NotKay\u0131tSistemi\\NotKay\u0131tSistemi\\FrmOgretmenNotEkrani.cs",
+              "RelativeToolTip": "NotKay\u0131tSistemi\\FrmOgretmenNotEkrani.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wIMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:59:13.516Z",
+              "EditorCaption": ""
             }
           ]
         }

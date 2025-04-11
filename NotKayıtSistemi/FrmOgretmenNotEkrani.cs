@@ -126,9 +126,10 @@ namespace NotKayıtSistemi
         }
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            txt2sinav1.Text = dataGridView1.SelectedCells[e.RowIndex].ToString();
-            txt2sinav2.Text = dataGridView1.SelectedCells[e.RowIndex].ToString();
-            txt2sinav3.Text = dataGridView1.SelectedCells[e.RowIndex].ToString();
+            txt2sinav1.Text = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();
+            txt2sinav2.Text = dataGridView1.Rows[e.RowIndex].Cells[2].Value.ToString();
+            txt2sinav3.Text = dataGridView1.Rows[e.RowIndex].Cells[3].Value.ToString();
+            lblOrt.Text = dataGridView1.Rows[e.RowIndex].Cells[4].Value.ToString();
         }
         private void btnClose_Click(object sender, EventArgs e)
         {
